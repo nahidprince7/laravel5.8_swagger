@@ -1,0 +1,225 @@
+/*-----------------------Side Menu------------------*/
+
+#sidebar-menu ul {
+    margin: 0;
+}
+
+.glyphicon {
+    color: #F2F5F7;
+}
+.sidebar-footer a:hover {
+    background: #ffa722;
+}
+.nav-md ul.nav.child_menu li:after {
+    top: 46px;
+}
+
+.box-profile:first-child div {
+    text-align: center !important;
+    height: 150px;
+    width: 150px;
+    overflow: hidden;
+    position: relative;
+    margin: auto;
+    border: 3px solid #dddddd !important;
+    border-radius: 50%;
+}
+.box-profile:first-child div img{
+    
+    border: 0 !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    max-width: inherit !important; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.profile_pic {
+    width: 45px;
+    height: 45px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 50%;
+    display: table-cell;
+    margin-top: 5px;
+}
+
+.profile_pic img {
+    border: 0 !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    max-width: inherit !important; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.profile_info {
+    padding: 0 10px;
+}
+.profile.clearfix {
+    display: table;
+    width: 100%;
+    align-items: center;
+    padding: 15px 10px;
+}
+.nav-sm .profile_info {
+    display: none;
+}
+
+.nav_title {
+    background: #172D44!important;
+}
+.box-profile p.text-muted.text-center {
+    margin: 0 0 20px;
+}
+.profile-username {
+    margin: 5px;
+}
+
+
+
+/*---------Notice board---------------*/
+
+.page-title .marquee-sibling {
+    margin-left: 5px;
+    background: #172D44;
+    height: 44px;
+    line-height: 27px;
+    font-size: 20px;
+}
+
+.page-title .Marquee {
+    background: #fff;
+    border: 1px solid #ebebeb;
+    padding: 9px 10px;
+}
+.page-title .Marquee-tag {
+    color: orange;
+    font-size: 16px;
+}
+
+.page-title .Marquee-tag:hover {
+    background: none;
+        transform: none;
+}
+
+/*-----------------Search----------------------*/
+
+#toolbar-parent {
+    margin: 0 15px;
+}
+
+#toolbar-parent .form-group {
+    margin: 10px 10px;
+}
+
+input#live-user-search {
+    height: 50px;
+    border: 1px solid #c2c2c2 !important;
+}
+#toolbar-parent .input-group {
+    /*width: 40%;*/
+    margin-bottom: 0 !important;
+    height: 50px;
+}
+span.input-group-addon {
+    height: 50px;
+}
+.form-control {
+    border: 0;
+    height: 50px;
+}
+.input-group-addon {
+    line-height: 3;
+}
+
+/*-----------------Employee Details--------------*/
+
+.x_panel .x_title h2 {
+    margin: 15px 8px;
+    font-size: 22px;
+}
+.card-header .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #262626;
+    background-color: #fff !important;
+    font-size: 18px;
+    padding: 0;
+}
+.card-header ul.nav.nav-pills {
+    margin: 0 15px;
+}
+.tab-content {
+    border: none;
+    padding: 0;
+    margin-bottom: 30px;
+}
+.col-md-9 .card-body {
+    padding: 15px !important;
+}
+.pad1 {
+    padding: 10px 5px;
+}
+.tab-content strong {
+    font-weight: 400;
+}
+
+
+.card {
+    border: none;
+}
+.x_content h4 {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.card-body.box-profile {
+    padding: 15px 0 0 !important;
+}
+
+ul.list-group.list-group-unbordered.mb-3 {
+    margin-bottom: 0 !important;
+}
+
+.list-group:last-child li.list-group-item{
+    border-bottom: 0 !important;
+}
+
+.card .list-group-item{
+    border-bottom: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+
+}
+.card li.list-group-item b, a {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+.x_title {
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.x_title .form-group {
+    margin-bottom: 0;
+}
+.x_title .input-group {
+    margin-bottom: 0;
+    padding-right: 8px;
+}
+.k-item > span > h6 {
+    font-size: 15px;
+    margin: 0;
+    font-weight: 500;
+}
+.k-item > span p {
+    margin: 2px 0 0;
+}
