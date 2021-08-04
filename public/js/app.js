@@ -37695,7 +37695,7 @@ var staticRenderFns = [
         _c("ul", { staticClass: "navbar-nav px-3" }, [
           _c("li", { staticClass: "nav-item text-nowrap" }, [
             _c("a", { staticClass: "nav-link", attrs: { href: "#" } }, [
-              _vm._v("Sign out")
+              _vm._v("Log out")
             ])
           ])
         ])
@@ -53675,8 +53675,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\xampp\htdocs\portal\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\portal\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\xampp\htdocs\api-swagger_laravel-5.8\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\xampp\htdocs\api-swagger_laravel-5.8\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
